@@ -1,0 +1,80 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    gap: 1px;
+    border: 1px solid black;
+    width: 1920px;
+    height: 1080px;
+  }
+  
+  .grid-item {
+    background-color: rgb(175, 16, 16);
+    width: 479px;
+    height: 280px;
+  }
+  
+  .item-1 {
+    background-color: red;
+  }
+  
+  .item-2 {
+    background-color: rgb(236, 233, 6);
+  }
+  
+  .item-3 {
+    background-color: rgb(255, 0, 149);
+  }
+  
+  .item-4 {
+    background-color: green;
+  }
+  
+  .item-5 {
+    background-color: purple;
+  }
+  
+  .item-6 {
+    background-color: orange;
+  }
+  
+  .item-7 {
+    background-color: pink;
+  }
+  
+  .item-8 {
+    background-color: teal;
+  }
+  
+  .item-9 {
+    background-color: brown;
+  }
+  
+  .item-10 {
+    background-color: navy;
+  }
+  
+  .item-11 {
+    background-color: maroon;
+  }
+  
+  .item-12 {
+    background-color: olive;
+  }
+  
+  .item-13 {
+    background-color: lime;
+  }
+  
+  .item-14 {
+    background-color: fuchsia;
+  }
+  
+  .item-15 {
+    background-color: aqua;
+  }
+  
+  .item-16 {
+    background-color: silver;
+  }
+  
